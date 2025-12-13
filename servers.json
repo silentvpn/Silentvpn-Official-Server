@@ -10,7 +10,7 @@
       "flag": "🇸🇬",
       "configType": "SHADOWSOCKS",
       "method": "2022-blake3-aes-256-gcm",
-      "password": "BASE64_OR_OBFUSCATED",
+      "password_b64": "Y09TME1tZkUraExaOE5wb0Q1bE5mVnVEQk1zM2RscGxIa3RBRTJ1ODdIaz06dWVDSXlIR1IxM21DcE12VzZ5K3BWWDJsZ3g0MndkYW53RUswekRwSFFubz0=",
       "tls": false
     },
     {
@@ -22,7 +22,7 @@
       "flag": "🇸🇬",
       "configType": "SHADOWSOCKS",
       "method": "2022-blake3-aes-256-gcm",
-      "password": "BASE64_OR_OBFUSCATED",
+      "password_b64": "N05TKzdXQnl5WnZZT1NyUkI5ekZuT2V0UExJYnFJTUViNW80a3M1bDVPcz06dCtMQjdpd1dydlpQTGFocFVidHRSM1VqZEtnVWVIc2IydTZQdWNlRWlLST0=",
       "tls": false
     }
   ]
