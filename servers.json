@@ -1,103 +1,119 @@
 [
-   {
-  "id": "official-uk-1",
-  "name": "United Kingdom Server",
-  "host": "35.197.218.209",
-  "port": 26279,
-  "type": "OFFICIAL",
-  "flag": "🇬🇧",
-  "configType": "SHADOWSOCKS",
-
-  "method": "chacha20-ietf-poly1305",
-  "password": "MZ79O3kFdDmBfd6ORxgUoL",
-
-  "network": "tcp",
-  "security": "none"
-},
-
-   {
-  "id": "official-sg-1",
-  "name": "Singapore Server 1",
-  "host": "206.206.76.231",
-  "port": 443,
-  "type": "OFFICIAL",
-  "flag": "🇸🇬",
-  "configType": "VLESS",
-
-  "uuid": "83846e80-8f1d-4d00-8122-7a5941ddfba0",
-  "encryption": "none",
-
-  "network": "tcp",
-  "security": "none",
-
-  "flow": ""
-},
-
-   {
-  "id": "official-sg-2",
-  "name": "Singapore Server 2",
-  "host": "206.206.76.231",
-  "port": 443,
-  "type": "OFFICIAL",
-  "flag": "🇸🇬",
-  "configType": "VLESS",
-
-  "uuid": "83846e80-8f1d-4d00-8122-7a5941ddfba0",
-  "encryption": "none",
-
-  "network": "tcp",
-  "security": "none",
-
-  "flow": ""
-},
-
     {
-  "id": "ss-bkk-1",
-  "name": "Thailand Server",
-  "host": "163.171.148.71",
-  "port": 11201,
-  "type": "OFFICIAL",
-  "flag": "🇹🇭",
-  "configType": "SHADOWSOCKS",
-
-  "method": "chacha20-ietf-poly1305",
-  "password": "312ee9bcc9570095",
-
-  "network": "tcp",
-  "security": "none"
-},
-   
-   {
-  "id": "outline-jp-1",
-  "name": "Japan Server 1",
-  "host": "109.123.231.16",
-  "port": 9647,
-  "type": "OFFICIAL",
-  "flag": "🇯🇵",
-  "configType": "SHADOWSOCKS",
-
-  "method": "chacha20-ietf-poly1305",
-  "password": "wkS1lEWBDounqfzK4ZVUoA",
-
-  "network": "tcp",
-  "security": "none"
-},
-
-   {
-  "id": "outline-jp-2",
-  "name": "Japan Server 2",
-  "host": "109.123.231.16",
-  "port": 9647,
-  "type": "OFFICIAL",
-  "flag": "🇯🇵",
-  "configType": "SHADOWSOCKS",
-
-  "method": "chacha20-ietf-poly1305",
-  "password": "wkS1lEWBDounqfzK4ZVUoA",
-
-  "network": "tcp",
-  "security": "none"
-}
-
-    
-  ]
+        "id": "ss-e77c40",
+        "name": "Hong Kong",
+        "host": "38.60.203.155",
+        "port": 11201,
+        "type": "OFFICIAL",
+        "flag": "🇭🇰",
+        "configType": "SHADOWSOCKS",
+        "method": "chacha20-ietf-poly1305",
+        "password": "a46a7f1876472552",
+        "network": "tcp",
+        "security": "none"
+    },
+    {
+        "id": "ss-a1d57e",
+        "name": "Japan",
+        "host": "3.112.130.53",
+        "port": 8313,
+        "type": "OFFICIAL",
+        "flag": "🇯🇵",
+        "configType": "SHADOWSOCKS",
+        "method": "chacha20-ietf-poly1305",
+        "password": "ljqdalu13..",
+        "network": "tcp",
+        "security": "none"
+    },
+    {
+        "id": "ss-8a0fa9",
+        "name": "Japan",
+        "host": "149.22.87.204",
+        "port": 443,
+        "type": "OFFICIAL",
+        "flag": "🇯🇵",
+        "configType": "SHADOWSOCKS",
+        "method": "aes-128-gcm",
+        "password": "shadowsocks",
+        "network": "tcp",
+        "security": "none"
+    },
+    {
+        "id": "ss-8999e6",
+        "name": "Singapore",
+        "host": "194.233.73.51",
+        "port": 14453,
+        "type": "OFFICIAL",
+        "flag": "🇸🇬",
+        "configType": "SHADOWSOCKS",
+        "method": "chacha20-ietf-poly1305",
+        "password": "764a4d8c1c76eb50",
+        "network": "tcp",
+        "security": "none"
+    },
+    {
+        "id": "ss-f98acc",
+        "name": "Singapore",
+        "host": "154.26.132.38",
+        "port": 27884,
+        "type": "OFFICIAL",
+        "flag": "🇸🇬",
+        "configType": "SHADOWSOCKS",
+        "method": "chacha20-ietf-poly1305",
+        "password": "ded718fcb2bb17b7",
+        "network": "tcp",
+        "security": "none"
+    },
+    {
+        "id": "ss-3289e0",
+        "name": "South Korea",
+        "host": "srv12.outlinekeys.com",
+        "port": 1080,
+        "type": "OFFICIAL",
+        "flag": "🇰🇷",
+        "configType": "SHADOWSOCKS",
+        "method": "chacha20-ietf-poly1305",
+        "password": "x9AB9dV6SzcTT_0vPybWbvo43kU2sMFk",
+        "network": "tcp",
+        "security": "none"
+    },
+    {
+        "id": "ss-76888c",
+        "name": "Thailand",
+        "host": "163.171.148.71",
+        "port": 11201,
+        "type": "OFFICIAL",
+        "flag": "🇹🇭",
+        "configType": "SHADOWSOCKS",
+        "method": "chacha20-ietf-poly1305",
+        "password": "312ee9bcc9570095",
+        "network": "tcp",
+        "security": "none"
+    },
+    {
+        "id": "ss-cf0fdc",
+        "name": "Thailand",
+        "host": "119.59.127.129",
+        "port": 990,
+        "type": "OFFICIAL",
+        "flag": "🇹🇭",
+        "configType": "SHADOWSOCKS",
+        "method": "chacha20-ietf-poly1305",
+        "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=",
+        "network": "tcp",
+        "security": "none"
+    },
+    {
+        "id": "ss-186c60",
+        "name": "United States",
+        "host": "dyn.usa.outlinekeys.net",
+        "port": 56636,
+        "type": "OFFICIAL",
+        "flag": "🇺🇸",
+        "configType": "SHADOWSOCKS",
+        "method": "chacha20-ietf-poly1305",
+        "password": "zJrbEQpHwDfG8CkQg2X5iV",
+        "network": "tcp",
+        "security": "none"
+    }
+]
